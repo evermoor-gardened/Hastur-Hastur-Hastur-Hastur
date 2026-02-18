@@ -1,0 +1,4 @@
+# RUINWARE SOVEREIGN ENGINE v3.0
+# Core: No dependencies (tkinter is stdlib)
+# Optional: AI subsystem
+requests>=2.28.0
